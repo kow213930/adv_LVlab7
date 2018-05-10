@@ -1,0 +1,56 @@
+10.05.2018 18:54:17 Initializing PLC... 
+10.05.2018 18:54:17 UI initialized 
+10.05.2018 18:54:17 Model initilalized 
+10.05.2018 18:54:17 DAQ module initialized 
+10.05.2018 18:54:17 PLC initialization successful! 
+10.05.2018 18:55:15 Initializing PLC... 
+10.05.2018 18:55:15 UI initialized 
+10.05.2018 18:55:15 Model initilalized 
+10.05.2018 18:55:15 DAQ module initialized 
+10.05.2018 18:55:15 PLC initialization successful! 
+10.05.2018 18:55:39 Initializing PLC... 
+10.05.2018 18:55:39 UI initialized 
+10.05.2018 18:55:39 Model initilalized 
+10.05.2018 18:55:39 DAQ module initialized 
+10.05.2018 18:55:39 PLC initialization successful! 
+10.05.2018 18:57:17 Initializing PLC... 
+10.05.2018 18:57:17 UI initialized 
+10.05.2018 18:57:17 Model initilalized 
+10.05.2018 18:57:17 DAQ module initialized 
+10.05.2018 18:57:17 PLC initialization successful! 
+10.05.2018 18:59:35 Initializing PLC... 
+10.05.2018 18:59:35 UI initialized 
+10.05.2018 18:59:35 Model initilalized 
+10.05.2018 18:59:35 DAQ module initialized 
+10.05.2018 18:59:35 PLC initialization successful! 
+10.05.2018 18:59:35 Line has been powered 
+10.05.2018 18:59:42 No power! 
+10.05.2018 18:59:48 Line has been powered 
+10.05.2018 19:00:00 No power! 
+10.05.2018 19:00:07 Line has been powered 
+10.05.2018 19:00:07 No power! 
+10.05.2018 19:00:08 Line has been powered 
+10.05.2018 19:00:18 No power! 
+10.05.2018 19:00:23 Line has been powered 
+10.05.2018 19:00:27 Starting process... 
+10.05.2018 19:00:27 Process has started 
+10.05.2018 19:00:30 No power! 
+10.05.2018 19:00:34 Line has been powered 
+10.05.2018 19:00:36 No power! 
+10.05.2018 19:00:43 Line has been powered 
+10.05.2018 19:00:54 Liquid level overflow! 
+10.05.2018 19:01:04 Another barrel filled 
+10.05.2018 19:01:10 Starting process... 
+10.05.2018 19:01:10 Process has started 
+10.05.2018 19:01:19 No power! 
+10.05.2018 19:01:36 Line has been powered 
+10.05.2018 19:01:37 No power! 
+10.05.2018 19:01:47 Line has been powered 
+10.05.2018 19:02:01 Another barrel filled 
+10.05.2018 19:02:23 Another barrel filled 
+10.05.2018 19:02:42 Liquid level overflow! 
+10.05.2018 19:02:50 Another barrel filled 
+10.05.2018 19:03:21 Liquid level overflow! 
+10.05.2018 19:03:28 Another barrel filled 
+10.05.2018 19:03:56 Liquid level overflow! 
+10.05.2018 19:04:01 Another barrel filled 
